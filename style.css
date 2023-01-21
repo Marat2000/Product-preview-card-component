@@ -31,7 +31,7 @@ body{
 	width:80vh;
 	}
 
-#content{
+main{
 	
 	text-align:left;
 	padding:0vh 3vh 0vh 43vh;
@@ -117,7 +117,7 @@ a:visited {color:white;}
 	margin-left:-25vh;
 	margin-top:-2vh;
 	}
-	#content{
+	main{
 	padding:3vh 3vh 3vh 3vh;
 	
 	}
